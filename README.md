@@ -1,3 +1,5 @@
-# Minimalist-Computing
+# digital_archived_work
 
-A repo for various designs discussed in Minimalist Computing.
+A repository of multiple projects and sketches created by H. Neemann's "Digital" simulator.
+
+Effectively a dump of all projects from my now very tired laptop hard-drive.
